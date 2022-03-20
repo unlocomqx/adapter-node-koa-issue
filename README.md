@@ -1,7 +1,7 @@
 ## Commands
 
 ```shell
-npm install
+yarn
 npm run build
 node server.js
 ```
